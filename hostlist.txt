@@ -1,0 +1,16 @@
+speedtest.frontier.com
+elkgrove.ca.speedtest.frontier.com
+paloalto.ca.speedtest.frontier.com
+atlanta.ga.speedtest.frontier.com
+chicago.il.speedtest.frontier.com
+lakeville.mn.speedtest.frontier.com
+rochester.ny.speedtest.frontier.com
+ashburn.va.speedtest.frontier.com
+everett.wa.speedtest.frontier.com
+seattle.wa.speedtest.frontier.com
+frontier.com
+google.com
+yahoo.com
+microsoft.com
+apple.com
+nytimes.com
